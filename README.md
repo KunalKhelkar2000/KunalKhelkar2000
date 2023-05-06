@@ -1,5 +1,5 @@
 <h1> Travaling Application With Core Java</h1>
-<h5>the project base on oops concept of java core the more impoertant project key point are following:</h5>
+<h5>The project base on OOPs concept of java core the more importent project key point are followings :</h5>
 
 <ul>
 <li>Application Login</li>
